@@ -74,3 +74,16 @@ ggsave(path = "D:\\Users\\Documents\\Time_Series_Analysis\\figures",
        dpi=500,
        filename = "gtemp_ocean_detrend.png",
        units = "in")
+
+df2 %>%
+  ggplot(aes(x = residuals)) +
+  geom_histogram(bins = 13, fill = "#0FD8F0", color = "black", linewidth = 1) +
+  labs(x = "Residuals", y = "Frequency", title = "Histogram of Residuals")
+
+ggsave(path = "D:\\Users\\Documents\\Time_Series_Analysis\\figures",
+       width = 10,
+       height = 7,
+       device='png',
+       dpi=500,
+       filename = "gtemp_ocean_residual_histogram.png",
+       units = "in")
