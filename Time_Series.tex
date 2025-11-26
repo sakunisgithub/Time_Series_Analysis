@@ -1162,6 +1162,23 @@ Thus, from (\ref{ARMA_11_YW_h_geq_2}),
 \begin{align*}
 \gamma(h) = \phi^{h-1} \gamma(1), \,\, \forall \, h \geq 2.
 \end{align*}
+
+\subsection{ACF for ARMA(1, 1) Process}
+
+The autocorrelation function for a \textit{stationary} ARMA$(1, 1)$ process can be obtained as follows.
+
+\begin{align*}
+\rho(1) = \dfrac{\gamma(1)}{\gamma(0)} &= \dfrac{(\theta + \phi)(1 - \phi^2) + (\theta + \phi)^2 \phi}{(1 - \phi^2) + (\theta + \phi)^2} \\[0.4em]
+&= \dfrac{(\theta + \phi)(1 - \phi^2 + \theta\phi + \phi^2)}{1 - \phi^2 + \theta^2 + \phi^2 + 2\theta\phi} \\[0.4em]
+&= \dfrac{(\theta + \phi)(1 + \theta \phi)}{1 + \theta^2 + 2\theta\phi}
+\end{align*}
+
+and
+
+\begin{align*}
+\rho(h) = \phi^{\,h-1}\,\rho(1), \quad h \geq 2.
+\end{align*}
+
 \newpage
 
 \section{Estimation of Mean and Autocorrelation Function of a Stationary Process}

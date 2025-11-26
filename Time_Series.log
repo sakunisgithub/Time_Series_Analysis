@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.12) (format=lualatex 2025.7.15)  26 NOV 2025 16:45
+This is LuaHBTeX, Version 1.15.1 (MiKTeX 22.12) (format=lualatex 2025.7.15)  26 NOV 2025 20:43
  restricted system commands enabled.
 **Time_Series.tex
 (./Time_Series.tex
@@ -1393,12 +1393,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 \openout4 = Time_Series.toc
  [2]
-<figures/LA_rainfall.png, id=146, 722.7pt x 505.89pt>
+<figures/LA_rainfall.png, id=148, 722.7pt x 505.89pt>
 File: figures/LA_rainfall.png Graphic file (type png)
 <use figures/LA_rainfall.png>
 Package luatex.def Info: figures/LA_rainfall.png  used on input line 83.
 (luatex.def)             Requested size: 289.07487pt x 202.3524pt.
-<figures/Nile.png, id=149, 722.7pt x 505.89pt>
+<figures/Nile.png, id=151, 722.7pt x 505.89pt>
 File: figures/Nile.png Graphic file (type png)
 <use figures/Nile.png>
 Package luatex.def Info: figures/Nile.png  used on input line 91.
@@ -1418,12 +1418,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 166--167
 
  []
 
-<figures/AirPassengers.png, id=193, 722.7pt x 505.89pt>
+<figures/AirPassengers.png, id=195, 722.7pt x 505.89pt>
 File: figures/AirPassengers.png Graphic file (type png)
 <use figures/AirPassengers.png>
 Package luatex.def Info: figures/AirPassengers.png  used on input line 173.
 (luatex.def)             Requested size: 216.84248pt x 151.79132pt.
-<figures/AirPassengers_SMA_12.png, id=194, 722.7pt x 505.89pt>
+<figures/AirPassengers_SMA_12.png, id=196, 722.7pt x 505.89pt>
 File: figures/AirPassengers_SMA_12.png Graphic file (type png)
 <use figures/AirPassengers_SMA_12.png>
 Package luatex.def Info: figures/AirPassengers_SMA_12.png  used on input line 1
@@ -1445,25 +1445,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 242--243
  []
 
 [8]
-<figures/gtemp_ocean.png, id=217, 722.7pt x 505.89pt>
+<figures/gtemp_ocean.png, id=219, 722.7pt x 505.89pt>
 File: figures/gtemp_ocean.png Graphic file (type png)
 <use figures/gtemp_ocean.png>
 Package luatex.def Info: figures/gtemp_ocean.png  used on input line 252.
 (luatex.def)             Requested size: 361.3491pt x 252.94437pt.
-<figures/gtemp_ocean_sma_9.png, id=218, 722.7pt x 505.89pt>
+<figures/gtemp_ocean_sma_9.png, id=220, 722.7pt x 505.89pt>
 File: figures/gtemp_ocean_sma_9.png Graphic file (type png)
 <use figures/gtemp_ocean_sma_9.png>
 Package luatex.def Info: figures/gtemp_ocean_sma_9.png  used on input line 258.
 
 (luatex.def)             Requested size: 361.3491pt x 252.94437pt.
  [9<./figures/gtemp_ocean.png><./figures/gtemp_ocean_sma_9.png>]
-<figures/gtemp_ocean_detrend.png, id=229, 722.7pt x 505.89pt>
+<figures/gtemp_ocean_detrend.png, id=231, 722.7pt x 505.89pt>
 File: figures/gtemp_ocean_detrend.png Graphic file (type png)
 <use figures/gtemp_ocean_detrend.png>
 Package luatex.def Info: figures/gtemp_ocean_detrend.png  used on input line 26
 6.
 (luatex.def)             Requested size: 361.3491pt x 252.94437pt.
-<figures/gtemp_ocean_residual_histogram.png, id=230, 722.7pt x 505.89pt>
+<figures/gtemp_ocean_residual_histogram.png, id=232, 722.7pt x 505.89pt>
 File: figures/gtemp_ocean_residual_histogram.png Graphic file (type png)
 <use figures/gtemp_ocean_residual_histogram.png>
 Package luatex.def Info: figures/gtemp_ocean_residual_histogram.png  used on in
@@ -1571,7 +1571,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 422--424
 
  []
 
-<figures/ACF_Plot.png, id=265, 650.43pt x 650.43pt>
+<figures/ACF_Plot.png, id=267, 650.43pt x 650.43pt>
 File: figures/ACF_Plot.png Graphic file (type png)
 <use figures/ACF_Plot.png>
 Package luatex.def Info: figures/ACF_Plot.png  used on input line 439.
@@ -1652,17 +1652,17 @@ File: bc-crayon.mps Graphic file (type mps)
 [MP to PDF]
 (C:/Users/Ananda/AppData/Local/Programs/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
 [19]
-<figures/alpha_0.35.png, id=316, 505.89pt x 505.89pt>
+<figures/alpha_0.35.png, id=318, 505.89pt x 505.89pt>
 File: figures/alpha_0.35.png Graphic file (type png)
 <use figures/alpha_0.35.png>
 Package luatex.def Info: figures/alpha_0.35.png  used on input line 634.
 (luatex.def)             Requested size: 144.5641pt x 144.5661pt.
-<figures/alpha_0.85.png, id=317, 505.89pt x 505.89pt>
+<figures/alpha_0.85.png, id=319, 505.89pt x 505.89pt>
 File: figures/alpha_0.85.png Graphic file (type png)
 <use figures/alpha_0.85.png>
 Package luatex.def Info: figures/alpha_0.85.png  used on input line 639.
 (luatex.def)             Requested size: 144.5641pt x 144.5661pt.
-<figures/alpha_negative_0.35.png, id=318, 505.89pt x 505.89pt>
+<figures/alpha_negative_0.35.png, id=320, 505.89pt x 505.89pt>
 File: figures/alpha_negative_0.35.png Graphic file (type png)
 <use figures/alpha_negative_0.35.png>
 Package luatex.def Info: figures/alpha_negative_0.35.png  used on input line 64
@@ -1767,7 +1767,7 @@ File: bc-crayon.mps Graphic file (type mps)
 
 [MP to PDF]
 (C:/Users/Ananda/AppData/Local/Programs/MiKTeX/tex/latex/bclogo/bc-crayon.mps)
-<all-twemojis.pdf, id=382, page=3609, 27.10126pt x 27.10126pt>
+<all-twemojis.pdf, id=384, page=3609, 27.10126pt x 27.10126pt>
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 3609>
 Package luatex.def Info: all-twemojis.pdf , page3609 used on input line 973.
@@ -1792,7 +1792,7 @@ File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 3609>
 Package luatex.def Info: all-twemojis.pdf , page3609 used on input line 973.
 (luatex.def)             Requested size: 7.4787pt x 7.47885pt.
-<all-twemojis.pdf, id=384, page=3458, 27.10126pt x 27.10126pt>
+<all-twemojis.pdf, id=386, page=3458, 27.10126pt x 27.10126pt>
 File: all-twemojis.pdf Graphic file (type pdf)
 <use all-twemojis.pdf, page 3458>
 Package luatex.def Info: all-twemojis.pdf , page3458 used on input line 981.
@@ -1897,25 +1897,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 1123--1125
  []
 
 [30] [31]
-Overfull \hbox (2.19466pt too wide) in paragraph at lines 1167--1167
+Overfull \hbox (2.19466pt too wide) in paragraph at lines 1184--1184
 []\TU/lmr/bx/n/14.4 Estimation of Mean and Autocorrelation Function of a Station
 ary
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1171.
+(hyperref)                removing `math shift' on input line 1188.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mu' on input line 1171.
+(hyperref)                removing `\mu' on input line 1188.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1171.
+(hyperref)                removing `math shift' on input line 1188.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1178--1179
+Underfull \hbox (badness 10000) in paragraph at lines 1195--1196
 
  []
 
@@ -2028,136 +2028,121 @@ Missing character: There is no ं (U+0902) in font cmmi10!
 Missing character: There is no ं (U+0902) in font cmmi10!
 Missing character: There is no ं (U+0902) in font cmmi10!
 [32]
-Underfull \hbox (badness 10000) in paragraph at lines 1205--1206
+Underfull \hbox (badness 10000) in paragraph at lines 1222--1223
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1207--1208
+Underfull \hbox (badness 10000) in paragraph at lines 1224--1225
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1209--1210
+Underfull \hbox (badness 10000) in paragraph at lines 1226--1227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1214--1216
+Underfull \hbox (badness 10000) in paragraph at lines 1231--1233
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1220--1222
+Underfull \hbox (badness 10000) in paragraph at lines 1237--1239
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1223--1224
+Underfull \hbox (badness 10000) in paragraph at lines 1240--1241
 
  []
 
 [33]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1245.
+(hyperref)                removing `math shift' on input line 1262.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\gamma' on input line 1245.
+(hyperref)                removing `\gamma' on input line 1262.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cdot' on input line 1245.
+(hyperref)                removing `\cdot' on input line 1262.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1245.
+(hyperref)                removing `math shift' on input line 1262.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1245.
+(hyperref)                removing `math shift' on input line 1262.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\rho' on input line 1245.
+(hyperref)                removing `\rho' on input line 1262.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cdot' on input line 1245.
+(hyperref)                removing `\cdot' on input line 1262.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1245.
+(hyperref)                removing `math shift' on input line 1262.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1247--1248
+Underfull \hbox (badness 10000) in paragraph at lines 1264--1265
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1258--1259
+Underfull \hbox (badness 10000) in paragraph at lines 1275--1276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1272--1273
+Underfull \hbox (badness 10000) in paragraph at lines 1289--1290
 
  []
 
 [34]
-Underfull \hbox (badness 10000) in paragraph at lines 1302--1303
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1317--1318
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1319--1320
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1321--1322
+Underfull \hbox (badness 10000) in paragraph at lines 1334--1335
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1323--1324
+Underfull \hbox (badness 10000) in paragraph at lines 1336--1337
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1330--1331
+Underfull \hbox (badness 10000) in paragraph at lines 1338--1339
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1340--1341
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1347--1348
 
  []
 
 [35]
-Underfull \hbox (badness 10000) in paragraph at lines 1341--1342
+Underfull \hbox (badness 10000) in paragraph at lines 1358--1359
 
  []
 
 
-Overfull \hbox (2.16167pt too wide) detected at line 1351
+Overfull \hbox (2.16167pt too wide) detected at line 1368
 []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1353--1354
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1362--1363
-
- []
-
-[36]
-Underfull \hbox (badness 10000) in paragraph at lines 1368--1369
-
  []
 
 
@@ -2166,136 +2151,151 @@ Underfull \hbox (badness 10000) in paragraph at lines 1370--1371
  []
 
 
-Overfull \hbox (11.9865pt too wide) in paragraph at lines 1372--1373
+Underfull \hbox (badness 10000) in paragraph at lines 1379--1380
+
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 1385--1386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1387--1388
+
+ []
+
+
+Overfull \hbox (11.9865pt too wide) in paragraph at lines 1389--1390
 []\TU/lmr/m/n/10.95 However, $\OML/cmm/m/it/10.95 \OT1/cmr/m/n/10.95 (1)$ \TU/
 lmr/m/n/10.95 is not generally known in advance. So we compare autocorrelations $[]\OT1/cmr/m/n/10.95 (2)\OML/cmm/m/it/10.95 ; []\OT1/cmr/m/n/10.95 (3)\OML/cmm/m/it/10.95 ; [] ; []\OT1/cmr/m/n/10.95 (40)$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1372--1373
+Underfull \hbox (badness 10000) in paragraph at lines 1389--1390
 
  []
 
-<figures/sample_ACF_of_MA_1.png, id=508, 722.7pt x 578.16pt>
+<figures/sample_ACF_of_MA_1.png, id=510, 722.7pt x 578.16pt>
 File: figures/sample_ACF_of_MA_1.png Graphic file (type png)
 <use figures/sample_ACF_of_MA_1.png>
-Package luatex.def Info: figures/sample_ACF_of_MA_1.png  used on input line 137
-8.
+Package luatex.def Info: figures/sample_ACF_of_MA_1.png  used on input line 139
+5.
 (luatex.def)             Requested size: 289.07487pt x 231.2599pt.
 [37<./figures/sample_ACF_of_MA_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1392--1393
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
 
  []
 
 
-Overfull \hbox (26.12206pt too wide) detected at line 1414
+Overfull \hbox (26.12206pt too wide) detected at line 1431
 []
  []
 
 [38] [39] [40]
-Underfull \hbox (badness 10000) in paragraph at lines 1481--1482
+Underfull \hbox (badness 10000) in paragraph at lines 1498--1499
 
  []
 
 [41] [42]
-<figures/simulation_of_MA_1_with_theta_negative_0.8.png, id=551, 794.97pt x 578
+<figures/simulation_of_MA_1_with_theta_negative_0.8.png, id=553, 794.97pt x 578
 .16pt>
 File: figures/simulation_of_MA_1_with_theta_negative_0.8.png Graphic file (type
  png)
 <use figures/simulation_of_MA_1_with_theta_negative_0.8.png>
 Package luatex.def Info: figures/simulation_of_MA_1_with_theta_negative_0.8.png
-  used on input line 1532.
+  used on input line 1549.
 (luatex.def)             Requested size: 317.98236pt x 231.2599pt.
-<figures/simulation_of_alpha_2_in_MA_1_with_theta_negative_0.8.png, id=552, 722
+<figures/simulation_of_alpha_2_in_MA_1_with_theta_negative_0.8.png, id=554, 722
 .7pt x 722.7pt>
 File: figures/simulation_of_alpha_2_in_MA_1_with_theta_negative_0.8.png Graphic
  file (type png)
 <use figures/simulation_of_alpha_2_in_MA_1_with_theta_negative_0.8.png>
 Package luatex.def Info: figures/simulation_of_alpha_2_in_MA_1_with_theta_negat
-ive_0.8.png  used on input line 1539.
+ive_0.8.png  used on input line 1556.
 (luatex.def)             Requested size: 252.94878pt x 252.94878pt.
  [43<./figures/simulation_of_MA_1_with_theta_negative_0.8.png><./figures/simulat
 ion_of_alpha_2_in_MA_1_with_theta_negative_0.8.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1549--1550
+Underfull \hbox (badness 10000) in paragraph at lines 1566--1567
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1551--1552
+Underfull \hbox (badness 10000) in paragraph at lines 1568--1569
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1553--1554
+Underfull \hbox (badness 10000) in paragraph at lines 1570--1571
 
  []
 
 [44]
-Underfull \hbox (badness 10000) in paragraph at lines 1592--1593
+Underfull \hbox (badness 10000) in paragraph at lines 1609--1610
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1621--1627
+Underfull \hbox (badness 10000) in paragraph at lines 1638--1644
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1638--1640
+Underfull \hbox (badness 10000) in paragraph at lines 1655--1657
 
  []
 
 [45]
-Overfull \hbox (54.02611pt too wide) detected at line 1657
+Overfull \hbox (54.02611pt too wide) detected at line 1674
 []
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1659.
+(hyperref)                removing `math shift' on input line 1676.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1659.
+(hyperref)                removing `math shift' on input line 1676.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1661--1662
+Underfull \hbox (badness 10000) in paragraph at lines 1678--1679
 
  []
 
 [46]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1687.
+(hyperref)                removing `math shift' on input line 1704.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1687.
+(hyperref)                removing `math shift' on input line 1704.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1687.
+(hyperref)                removing `math shift' on input line 1704.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\geq' on input line 1687.
+(hyperref)                removing `\geq' on input line 1704.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 1687.
+(hyperref)                removing `math shift' on input line 1704.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1704--1705
+Underfull \hbox (badness 10000) in paragraph at lines 1721--1722
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1707--1709
+Underfull \hbox (badness 10000) in paragraph at lines 1724--1726
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1726--1728
+Underfull \hbox (badness 10000) in paragraph at lines 1743--1745
 
  []
 
@@ -2304,84 +2304,84 @@ File: bc-attention.mps Graphic file (type mps)
  [MP to PDF]
 (C:/Users/Ananda/AppData/Local/Programs/MiKTeX/tex/latex/bclogo/bc-attention.mp
 s)
-Underfull \hbox (badness 10000) in paragraph at lines 1799--1800
+Underfull \hbox (badness 10000) in paragraph at lines 1816--1817
 
  []
 
 [48] [49]
-Underfull \hbox (badness 10000) in paragraph at lines 1849--1850
+Underfull \hbox (badness 10000) in paragraph at lines 1866--1867
 
  []
 
 [50]
-Underfull \hbox (badness 10000) in paragraph at lines 1893--1894
+Underfull \hbox (badness 10000) in paragraph at lines 1910--1911
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1902--1904
+Underfull \hbox (badness 10000) in paragraph at lines 1919--1921
 
  []
 
 [51]
-Overfull \hbox (0.20045pt too wide) in paragraph at lines 1971--1972
+Overfull \hbox (0.20045pt too wide) in paragraph at lines 1988--1989
 \TU/lmr/m/n/10.95 The method of moments is unsatisfactory for many models, so we
  consider other methods of estimation.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1971--1972
+Underfull \hbox (badness 10000) in paragraph at lines 1988--1989
 
  []
 
 [52]
-Overfull \hbox (3.12718pt too wide) detected at line 2008
+Overfull \hbox (3.12718pt too wide) detected at line 2025
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2039--2040
+Underfull \hbox (badness 10000) in paragraph at lines 2056--2057
 
  []
 
 [53] [54] [55]
-Underfull \hbox (badness 10000) in paragraph at lines 2170--2171
+Underfull \hbox (badness 10000) in paragraph at lines 2187--2188
 
  []
 
 [56]
-Overfull \hbox (7.29478pt too wide) in paragraph at lines 2216--2216
+Overfull \hbox (7.29478pt too wide) in paragraph at lines 2233--2233
 []\TU/lmr/m/n/10.95 where $\OML/cmm/m/it/10.95 x[]$ \TU/lmr/m/n/10.95 is the bes
 t linear one-step-ahead predictor $\OML/cmm/m/it/10.95 P[]X[]$ \TU/lmr/m/n/10.9
 5 (as given in ([][]15.10[][]); when $\OML/cmm/m/it/10.95 X[]; [] ; X[]$
  []
 
 [57]
-Underfull \hbox (badness 10000) in paragraph at lines 2292--2295
+Underfull \hbox (badness 10000) in paragraph at lines 2309--2312
 
  []
 
 
-Overfull \hbox (7.66502pt too wide) in paragraph at lines 2297--2298
+Overfull \hbox (7.66502pt too wide) in paragraph at lines 2314--2315
 [][]\TU/lmr/bx/n/10.95 Property 16.1. []\TU/lmr/m/it/10.95 Under appropriate con
 ditions, for causal and invertible ARMA processes, the maximum
  []
 
 [58] [59]
-Underfull \hbox (badness 10000) in paragraph at lines 2387--2388
+Underfull \hbox (badness 10000) in paragraph at lines 2404--2405
 
  []
 
 [60] [61] (./Time_Series.aux))
 
 Here is how much of LuaTeX's memory you used:
- 46067 strings out of 478389
+ 46069 strings out of 478389
  100000,3417909 words of node,token memory allocated
  2010 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 26 glue, 4 kern, 2 sub_mlist, 1 glyph, 271 attribut
 e, 108 glue_spec, 271 attribute_list, 2 write nodes
-   avail lists: 2:1355,3:1435,4:330,5:547,6:137,7:6740,8:122,9:1720,10:16,11:16
- 64228 multiletter control sequences out of 65536+600000
+   avail lists: 2:1355,3:1435,4:338,5:550,6:139,7:6740,8:122,9:1720,10:16,11:16
+ 64229 multiletter control sequences out of 65536+600000
  93 fonts using 6449783 bytes
  99i,20n,128p,5361b,1120s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <<C:\Users\Ananda\AppData\Local\MiKTeX\fonts/pk/ljfour/public/dingbat/dpi657\ark
@@ -2419,9 +2419,9 @@ nda/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/U
 sers/Ananda/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/ms
 am10.pfb><C:/Users/Ananda/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/symbols/msbm10.pfb>
-Output written on Time_Series.pdf (61 pages, 7440016 bytes).
+Output written on Time_Series.pdf (61 pages, 7441670 bytes).
 
-PDF statistics: 1129 PDF objects out of 1200 (max. 8388607)
- 306 named destinations out of 1000 (max. 131072)
- 488 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 1134 PDF objects out of 1200 (max. 8388607)
+ 307 named destinations out of 1000 (max. 131072)
+ 496 words of extra memory for PDF output out of 10000 (max. 100000000)
 

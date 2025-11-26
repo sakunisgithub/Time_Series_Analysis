@@ -27,6 +27,7 @@
 \contentsline {subsection}{\numberline {12.1}ARMA(p, q) Process}{28}{subsection.12.1}%
 \contentsline {subsection}{\numberline {12.2}ARMA(1, 1) Process}{30}{subsection.12.2}%
 \contentsline {subsubsection}{\numberline {12.2.1}ACVF for ARMA(1, 1) Process}{31}{subsubsection.12.2.1}%
+\contentsline {subsection}{\numberline {12.3}ACF for ARMA(1, 1) Process}{31}{subsection.12.3}%
 \contentsline {section}{\numberline {13}Estimation of Mean and Autocorrelation Function of a Stationary Process}{32}{section.13}%
 \contentsline {subsection}{\numberline {13.1}Estimation of $\mu $}{32}{subsection.13.1}%
 \contentsline {subsection}{\numberline {13.2}Estimation of $\gamma (\cdot )$ and $\rho (\cdot )$}{34}{subsection.13.2}%
