@@ -1,0 +1,59 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Examples}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Objectives of Time Series Analysis}{4}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Smoothing}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Simple Moving Average}{5}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Classical Decomposition Model}{7}{section.3}%
+\contentsline {section}{\numberline {4}Estimation and Elimination of Trend in Absence of Seasonality}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Smoothing by Moving Average}{8}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Some Important Functions}{11}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Properties of Auto-correlation Function}{11}{subsection.5.1}%
+\contentsline {section}{\numberline {6}Stationarity}{12}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Strong/Strict Stationary}{12}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Weak Stationary}{12}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Random Walk}{14}{section.7}%
+\contentsline {section}{\numberline {8}Moving Average Process}{16}{section.8}%
+\contentsline {subsection}{\numberline {8.1}MA(1) Process}{16}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}MA(q) Process}{17}{subsection.8.2}%
+\contentsline {section}{\numberline {9}Autoregressive Process}{18}{section.9}%
+\contentsline {subsection}{\numberline {9.1}AR(1) Process}{18}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}AR(2) Process}{20}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}AR(p) Process}{21}{subsection.9.3}%
+\contentsline {section}{\numberline {10}Yule-Walker Equations}{23}{section.10}%
+\contentsline {subsection}{\numberline {10.1}AR(2) Process}{23}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}AR(p) Process}{24}{subsection.10.2}%
+\contentsline {section}{\numberline {11}Stationary Conditions for AR(2) Process}{25}{section.11}%
+\contentsline {section}{\numberline {12}ARMA Process}{28}{section.12}%
+\contentsline {subsection}{\numberline {12.1}ARMA(p, q) Process}{28}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}ARMA(1, 1) Process}{30}{subsection.12.2}%
+\contentsline {subsubsection}{\numberline {12.2.1}ACVF for ARMA(1, 1) Process}{31}{subsubsection.12.2.1}%
+\contentsline {section}{\numberline {13}Estimation of Mean and Autocorrelation Function of a Stationary Process}{32}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Estimation of $\mu $}{32}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Estimation of $\gamma (\cdot )$ and $\rho (\cdot )$}{34}{subsection.13.2}%
+\contentsline {subsubsection}{\numberline {13.2.1}For a Purely Random Process}{35}{subsubsection.13.2.1}%
+\contentsline {subsubsection}{\numberline {13.2.2}For an MA(1) Process}{36}{subsubsection.13.2.2}%
+\contentsline {subsubsection}{\numberline {13.2.3}For an AR(1) Process}{38}{subsubsection.13.2.3}%
+\contentsline {section}{\numberline {14}The Partial Autocorrelation Function}{40}{section.14}%
+\contentsline {subsection}{\numberline {14.1}PACF of an AR(1) Process}{40}{subsection.14.1}%
+\contentsline {subsection}{\numberline {14.2}PACF of an AR(p) Process}{40}{subsection.14.2}%
+\contentsline {subsection}{\numberline {14.3}PACF of an MA(1) Process}{41}{subsection.14.3}%
+\contentsline {section}{\numberline {15}Forecasting Stationary Time Series}{44}{section.15}%
+\contentsline {subsection}{\numberline {15.1}The Prediction Equations in the Time Domain}{44}{subsection.15.1}%
+\contentsline {subsection}{\numberline {15.2}Equations for the One-Step Predictors, $h = 1$}{46}{subsection.15.2}%
+\contentsline {subsection}{\numberline {15.3}Equations for the $h-$Step Predictors, $h \geq 1$}{47}{subsection.15.3}%
+\contentsline {subsection}{\numberline {15.4}One-step Prediction of a stationary AR(1) Process}{47}{subsection.15.4}%
+\contentsline {subsection}{\numberline {15.5}Recursive Methods for Computing Best Linear Predictors}{48}{subsection.15.5}%
+\contentsline {subsubsection}{\numberline {15.5.1}The Durbin-Levinson Algorithm}{48}{subsubsection.15.5.1}%
+\contentsline {subsubsection}{\numberline {15.5.2}The Innovations Algorithm}{50}{subsubsection.15.5.2}%
+\contentsline {section}{\numberline {16}Estimation for ARMA Models}{50}{section.16}%
+\contentsline {subsection}{\numberline {16.1}Parameter Estimation for Autoregressive Processes}{50}{subsection.16.1}%
+\contentsline {subsubsection}{\numberline {16.1.1}Yule-Walker Estimates}{50}{subsubsection.16.1.1}%
+\contentsline {subsubsection}{\numberline {16.1.2}Large Sample Properties of Yule-Walker Estimates}{51}{subsubsection.16.1.2}%
+\contentsline {subsubsection}{\numberline {16.1.3}An Example of Yule-Walker Estimates}{52}{subsubsection.16.1.3}%
+\contentsline {subsubsection}{\numberline {16.1.4}Maximum Likelihood Estimation for AR(1) Process}{52}{subsubsection.16.1.4}%
+\contentsline {subsection}{\numberline {16.2}Parameter Estimation for Moving Average Process of Order 1}{54}{subsection.16.2}%
+\contentsline {subsubsection}{\numberline {16.2.1}Method of Moments Estimation}{54}{subsubsection.16.2.1}%
+\contentsline {subsubsection}{\numberline {16.2.2}Asymptotic Properties of Method of Moments Estimator}{55}{subsubsection.16.2.2}%
+\contentsline {subsection}{\numberline {16.3}Parameter Estimation for ARMA(p, q) Process}{57}{subsection.16.3}%
+\contentsline {subsubsection}{\numberline {16.3.1}Maximum Likelihood Estimation}{57}{subsubsection.16.3.1}%
+\contentsline {subsection}{\numberline {16.4}Large Sample Distribution of the Estimators}{58}{subsection.16.4}%
